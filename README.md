@@ -1,4 +1,4 @@
-# Codex Pet Arena
+# Pet Arena
 
 Open `dist/index.html` in a modern browser. No install or server required.
 
