@@ -15,8 +15,6 @@ Tokens increase score and size, up to 3× at 150 tokens. Land on rivals or dash 
 
 The eight original pets use an ImageGen sprite atlas and procedural idle, running, airborne, dash, and hit motion. The requested hatch-pet skill was not available. Music and sound effects are synthesized locally after play begins.
 
-Art: built-in ImageGen. Prompt: “Create a game sprite atlas on transparent background, exactly 4 columns by 2 rows of equal sized cells. Eight original cute rounded pets, one centered fully contained in each cell with generous transparent padding. Row 1: mint green leaf-eared bunny; peach orange round fox; lavender tiny horned dragon; sky blue axolotl. Row 2: pink round cat with star forehead; yellow fluffy chick with sprout; turquoise tiny turtle; purple moth kitten. Consistent delightful polished 3D clay toy style, big expressive dark eyes, full bodies facing slightly right, tiny feet, soft shading. No text, no grid lines, no shadows outside characters, no props.”
-
 Artwork: `dist/pets.png`. Game source: `dist/game.js`, `dist/style.css`, and `dist/index.html`.
 
 ## Project structure
