@@ -13,7 +13,7 @@ Choose one of eight pets and collect the most tokens in a three-minute round. Ma
 
 Tokens increase score and size, up to 3× at 150 tokens. Land on rivals or dash into them to spill tokens. Larger pets can knock aside smaller pets. Invulnerability briefly protects a pet after a hit. Shield, magnet, and speed boosts last nine seconds. Spring pads launch pets toward higher routes. Glowing ground patches spill tokens and bounce pets away. Token storms arrive every 20 seconds.
 
-The eight original pets use an ImageGen sprite atlas and procedural idle, running, airborne, dash, and hit motion. The requested hatch-pet skill was not available. Music and sound effects are synthesized locally after play begins.
+The eight original pets use an ImageGen sprite atlas and procedural idle, running, airborne, dash, and hit motion. Music and sound effects are synthesized locally after play begins.
 
 Artwork: `dist/pets.png`. Game source: `dist/game.js`, `dist/style.css`, and `dist/index.html`.
 
